@@ -105,8 +105,6 @@ http://localhost:9000
 
 ---
 
----
-
 ## ✨ Visual Theme
 
 The frontend uses a **vintage paper theme** with:
